@@ -47,8 +47,6 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/b1b44be0-e06b-49ac-ae56-1c3868eb2d31)
 ![image](https://github.com/user-attachments/assets/2ea03b31-40d9-4b46-a093-b35a7d017e47)
 
-
-
 ## Results:
 The Construction or Re-construction of impulse or ideal sampling using python are verified.
 
