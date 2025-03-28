@@ -1,10 +1,12 @@
-## Aim:
-To perform Construction and Re-contruction of impluse or ideal sampling using python.
-## Tools required:
-COLAB
+# Ideal-Sampling
+## Logeshwari R
+## 212223060137
+## Aim
+To study and analyze Ideal Sampling (Impulse Sampling), where a continuous-time signal is sampled using an impulse train, and observe its effects in both time and frequency domains. The experiment aims to verify the sampling theorem, analyze spectral characteristics, and understand signal reconstruction.
 
-python IDE with Numpy and Scipy
-## Program:
+## Tools Required
+Python: A versatile programming language used for scientific computing and signal processing. NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations. Matplotlib: A plotting library for generating high-quality graphs and visualizations of data, essentialfor demonstrating the sampling process.
+## Program
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -42,11 +44,18 @@ plt.grid(True)
 plt.legend()
 plt.show()
 ```
-## Output Waveform:
-![image](https://github.com/user-attachments/assets/412a3965-f3ee-4ee7-a7d6-7a653bb77604)
-![image](https://github.com/user-attachments/assets/b1b44be0-e06b-49ac-ae56-1c3868eb2d31)
-![image](https://github.com/user-attachments/assets/2ea03b31-40d9-4b46-a093-b35a7d017e47)
 
-## Results:
-The Construction or Re-construction of impulse or ideal sampling using python are verified.
+
+## Output Waveform
+
+![id1](https://github.com/user-attachments/assets/fe017be9-2586-462c-926d-747871dc9a88)
+
+
+![id2](https://github.com/user-attachments/assets/c194162f-672f-4d8f-9c46-c431c83cee84)
+
+
+![id3](https://github.com/user-attachments/assets/7a6d35fe-0b77-4db1-b045-0a01f410c2d8)
+
+## Result
+The result of ideal sampling is a discrete-time signal that retains all the information of the original continuous-time signal is obtained and output is verified.
 
